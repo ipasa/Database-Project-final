@@ -1,0 +1,131 @@
+#train_route_div {
+	background:#fff;
+	margin: auto;
+	margin-top: 20px;
+	width:80%;
+	min-height: 1100px;
+}
+p{
+	margin: 0 0 10px 5px;
+}
+.onboard {
+	background: #491d37;
+	height: 50px;
+}
+.onboard img{
+	float: left;
+	height: 45px;
+}
+.onboard p{
+	float: left;
+	color: #ffffff;
+	padding: 14px 0px 0px 12px;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-size: 1.4em;
+}
+
+.launch_info{
+	margin-left: -2px;
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+.single_info{
+	margin-left: 2px; 
+	width: 198px;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-size: 1.4em;
+}
+.single_info h5{
+	background-color: #6c1d4c;
+	color: #fff;
+	padding: 10px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif!important;
+}
+.myfloat{
+	float: left;
+}
+.passengers_info {
+	margin-top: 125px;
+	margin-left: -2px;
+}
+.contact{
+	background: #491d37;
+	height: 50px;
+}
+.contact p{
+	font-family: Tahoma, Arial, Helvetica, sans-serif!important;
+	font-weight: bold;
+	color: #ffffff;
+	padding: 14px 0px 0px 12px;
+}
+.info{
+	margin-left: 2px;
+	width: 265px;
+}
+.info h5{
+	background-color: #6c1d4c;
+	color: #fff;
+	padding: 10px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif!important;
+}
+.info p{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-size: 1.4em;
+}
+
+.lefty{
+	float: left;
+}
+.item{
+	background-color: #6c1d4c;
+	color: #fff;
+	padding: 10px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif!important;
+}
+.table {
+	border: none;
+	margin-top: 2px;
+}
+.totalprice{
+	background: #301e29;
+	height: 50px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif!important;
+	font-weight: bold;
+	color: #ffffff;
+	padding: 14px 0px 0px 12px;
+	margin-bottom: 2px;
+}
+.totalprice p{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	color: #ffffff;
+	padding: 8px 0px 0px 12px;
+	font-size: 1.5em;
+}
+.totalprice span{
+	float: right;
+	padding-right: 107px;
+}
+.our_promotions h1{
+	font-size: 35px;
+	line-height: 40px;
+	margin-bottom: 10px;
+}
+.our_promotions p{
+	font-size: 14px; 
+	line-height: 18px;
+}
+.our_promotions a{
+	background: none repeat scroll 0 0 #333333;
+	color: #FFFFFF;
+	display: inline-block;
+	font-size: 15px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	padding: 5px 25px;
+}
+.fix{
+	overflow: hidden;
+}
+.mytable{
+	width: 100%;
+}

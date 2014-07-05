@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:launch_id;datatype:string,name:launch_name;datatype:string,name:source;datatype:string,name:destination;datatype:string,name:dept_time;datatype:string" />
+	<infoitem key="UD_user_information" value="name:user_name;datatype:string,name:user_email;datatype:string,name:user_phone;datatype:string,name:user_address;datatype:blob" />
+	<infoitem key="UD_purchaseInfo" value="name:purchase_date;datatype:date,name:journey_date;datatype:date,name:source;datatype:string,name:destination;datatype:string,name:launch_name;datatype:string,name:tnr;datatype:int" />
+</info>

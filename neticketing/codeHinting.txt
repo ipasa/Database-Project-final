@@ -1,0 +1,2 @@
+/*Sending Multiple data by ajax*/
+xmlhttp.open("GET","query1test.php?lname="+document.getElementById("lname").value+"&year="+document.getElementById("year").value,true);

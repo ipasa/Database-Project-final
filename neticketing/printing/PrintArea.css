@@ -1,0 +1,35 @@
+.PrintArea {
+    border: 0px solid #BBBBBB;
+    margin: 0px 60px;
+    padding: 0px 20px;
+    width: 400px;
+}
+.button {
+    background: none repeat scroll 0 0 #363;  /*--#999999--*/
+    color: #EEEEEE;
+    cursor: pointer;
+    margin: 0px 80px;
+    padding: 3px 5px;
+    text-align: center;
+    width: 80px;
+}
+span.test {
+    color: red;
+}
+.PrintArea span {    
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    color: #992b66;
+    border-bottom: 2px solid;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.PrintArea p { 
+    display: block;
+    -webkit-margin-before: 0.5em;
+    -webkit-margin-after: 0.5em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}

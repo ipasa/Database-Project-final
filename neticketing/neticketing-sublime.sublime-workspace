@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"MA",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"li",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 10799,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routelist/result.php",
+			"settings":
+			{
+				"buffer_size": 1844,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"hy",
+				"Hyperlink Helper: Lookup with Google & Link"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 176.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/neticketing/purchaseticket.php",
+		"/C/wamp/www/neticketing/routelist.php",
+		"/C/wamp/www/neticketing/index.php",
+		"/C/wamp/www/neticketing/ticketConfermation.php",
+		"/C/wamp/www/neticketing/routelist/getnumofcabin.php",
+		"/C/wamp/www/neticketing/css/main_style.css",
+		"/C/wamp/www/neticketing/printing/index.php",
+		"/C/wamp/www/neticketing/routelist/getClass.php",
+		"/C/wamp/www/neticketing/routelist/getStation_2.php",
+		"/C/wamp/www/neticketing/routelist/result_purchaseticket.php",
+		"/C/wamp/www/neticketing/include/banner.php",
+		"/C/wamp/www/neticketing/routelist/resultForPerchuse.php",
+		"/C/wamp/www/neticketing/neticketing-sublime.sublime-workspace",
+		"/C/wamp/www/neticketing/neticketing-sublime.sublime-project",
+		"/C/Users/pasha/Desktop/mmenu.frebsite.nl/index.html",
+		"/C/Users/pasha/AppData/Local/Temp/Rar$DIa0.496/mmenu.css",
+		"/C/wamp/www/neticketing/dashboard.php",
+		"/C/wamp/www/blood_cse/login.php",
+		"/C/wamp/www/neticketing/login.php",
+		"/C/wamp/www/neticketing/printing/navigation.php",
+		"/C/wamp/www/neticketing/printing/PrintArea.css",
+		"/C/wamp/www/neticketing/css/onboard.css",
+		"/C/wamp/www/neticketing/include/header.php",
+		"/C/Users/pasha/Desktop/Recent Work/cssChack/style.css",
+		"/C/Users/pasha/Desktop/Recent Work/Code for project/main.css",
+		"/C/Users/pasha/Desktop/Recent Work/10.10.2012/RoundButtons/css/style.css",
+		"/C/Users/pasha/Desktop/Recent Work/adding_form/add.php",
+		"/C/Users/pasha/Desktop/Recent Work/10.10.2012/RoundButtons/index.html",
+		"/C/wamp/www/neticketing/query.php",
+		"/C/wamp/www/neticketing/qu1.php",
+		"/C/Users/pasha/Desktop/Result_site/index.php",
+		"/C/Program Files/Sublime Text/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Program Files/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/wamp/www/ajax/index.html",
+		"/C/Program Files/Sublime Text/Data/Settings/SideBarEnhancements.json",
+		"/C/Program Files/Sublime Text/Data/Packages/SideBarEnhancements-master/Default.sublime-keymap",
+		"/C/wamp/www/ajax/connection.php",
+		"/C/Program Files/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/ajax/main.css",
+		"/C/Program Files/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/blood_cse/index.php",
+		"/C/wamp/www/bptv/wp-content/themes/max-magazine/code.snipprt.txt",
+		"/C/wamp/www/bptv/wp-content/themes/max-magazine/style.css",
+		"/C/Program Files/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files/Sublime Text/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"button1",
+			"button",
+			"button1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 10799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1569,
+								4460
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routelist/result.php",
+					"settings":
+					{
+						"buffer_size": 1844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_launch_route_details" value="name:launch_name;datatype:string" />
+	<infoitem key="UD_launch_route_name" value="name:launch_name;datatype:string" />
+	<infoitem key="UD_route_list_details" value="name:launch_name;datatype:string,name:source;datatype:string,name:destination;datatype:string,name:dept_time;datatype:string" />
+</info>
